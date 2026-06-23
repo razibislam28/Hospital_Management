@@ -28,7 +28,9 @@ Use these default XAMPP connection parameters:
 ## 2. Completed vs. Incomplete Tasks
 
 * **Completed (Tasks 01–10):** All database tasks are fully done. This includes writing the complete `schema.sql` with exact `DECIMAL` types for money, configuring explicit foreign key rules (`CASCADE`/`RESTRICT`), implementing 7 optimized indexes with justification comments, applying `ENUM` types for fixed fields, adding soft-delete columns, and drafting all 5 analytical reporting queries.
-* **Incomplete (REST API & Frontend UI):** Both the REST API design and Frontend Dashboard UI were completely missed/forgotten due to tight time-tracking constraints, as the entire focus was placed on perfecting the core relational database structure.
+Sever.js is the REST API Design and Build. The justification comments are complete
+
+* **Incomplete ( Frontend UI)  Frontend Dashboard UI was completely missed/forgotten due to tight time-tracking constraints, as the entire focus was placed on perfecting the core relational database structure.
 
 ---
 
